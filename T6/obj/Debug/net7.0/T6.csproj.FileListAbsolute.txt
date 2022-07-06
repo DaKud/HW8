@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\HW8\T6\bin\Debug\net7.0\T6.exe
+C:\Users\ПК\Desktop\HW8\T6\bin\Debug\net7.0\T6.deps.json
+C:\Users\ПК\Desktop\HW8\T6\bin\Debug\net7.0\T6.runtimeconfig.json
+C:\Users\ПК\Desktop\HW8\T6\bin\Debug\net7.0\T6.dll
+C:\Users\ПК\Desktop\HW8\T6\bin\Debug\net7.0\T6.pdb
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.AssemblyInfo.cs
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.dll
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\refint\T6.dll
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.pdb
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\T6.genruntimeconfig.cache
+C:\Users\ПК\Desktop\HW8\T6\obj\Debug\net7.0\ref\T6.dll

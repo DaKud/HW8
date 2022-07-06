@@ -44,7 +44,8 @@ void FindMinRow(int[] sum)
     int min = sum[index];                      
     for (int i = 0; i < sum.Length; i++) 
     {     
-        if (sum[i] < min) {                       
+        if (sum[i] < min) 
+        {                       
             index = i;                                
             min = sum[i];                      
         }
